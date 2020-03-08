@@ -41,11 +41,11 @@ header.style.backgroundColor = '#ffff64'
 header.style.borderBottom = 'solid 2px #343a40';
 
 //QUERYSELECTORALL
-var odd = document.querySelectorAll('li:nth-child(odd)');
+// var odd = document.querySelectorAll('li:nth-child(odd)');
 
-for(var i = 0; i < odd.length; i++){
-    odd[i].style.backgroundColor='#ffff64'
-}
+// for(var i = 0; i < odd.length; i++){
+//     odd[i].style.backgroundColor='#ffff64'
+// }
 
 // var button = document.getElementById('button').addEventListener('click', buttonClick);
 
